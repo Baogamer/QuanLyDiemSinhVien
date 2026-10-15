@@ -81,4 +81,4 @@ st.bar_chart(df.set_index("Họ tên")["Tổng kết"])
 
 # Thông tin người thực hiện
 st.divider()
-st.caption("Họ và tên: Nhập họ tên của em | MSSV: Nhập MSSV của em")
+st.caption("Họ và tên: Nguyễn Lê Thái Bảo | MSSV: 070207011461")
